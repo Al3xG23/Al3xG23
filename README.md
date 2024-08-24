@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al3xG23
 - 👀 I’m interested in learning to code
-- 🌱 I’m starting a coding certificate program
+- 🌱 I completed a coding certificate program
 - 💞️ I’m looking to expand my skill set
 - 📫 How to reach me ...
 
